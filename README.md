@@ -15,7 +15,7 @@ A aplicação utiliza **Flask** e um endpoint que permite alocar memória artifi
 
 .
 ├── app.py
-
+├
 └── Dockerfile
 
 
